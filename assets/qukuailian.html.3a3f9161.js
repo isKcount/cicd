@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as t,c as o,d as c}from"./app.4cf02e25.js";const n={},_=c("p",null,"\u529F\u80FD\u8BE6\u60C5...",-1),a=[_];function s(r,l){return t(),o("div",null,a)}const d=e(n,[["render",s],["__file","qukuailian.html.vue"]]);export{d as default};
